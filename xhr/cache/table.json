@@ -1,0 +1,498 @@
+{"generated" : 1281034938, 
+"doc_name" : "table", 
+"doc_key" : "thrwaG-fvzsCxN_a0fMSKMw", 
+"data" : [{'id' : '1' 
+,'category' : 'INTERNET' 
+,'titre' : 'Logs' 
+,'description' : 'Les FAI doivent conserver pendant un an les traces (&quot;données de connexion&quot;, ou &quot;logs&quot;) de tout ce que l&#039;on fait sur le Net.' 
+},
+{'id' : '1' 
+,'category' : 'INTERNET' 
+,'titre' : 'Cryptographie' 
+,'description' : 'L&#039;utilisation d&#039;un logiciel de cryptographie (qui permet de sécuriser sles communications) est considérée come une &quot;circonstance aggravante&quot;.' 
+},
+{'id' : '1' 
+,'category' : 'FICHIERS' 
+,'titre' : 'JUDEX/STIC' 
+,'description' : 'Les fichiers de suspects de la police (STIC) et de la gendarmerie (JUDEX) servent aussi désormais à effectuer des &quot;enquêtes administratives de moralité&quot; à l&#039;occasion du recrutement ou de l&#039;avancement de ceux qui travaillent dans la sécurité (1 million de salariés).' 
+},
+{'id' : '1' 
+,'category' : 'FICHIERS' 
+,'titre' : 'FNAEG' 
+,'description' : 'Le FNAEG (fichier national des empreintes génétiques), créé en 1998 pour ficher l&#039;ADN des criminels sexuels les plus dangereux, est étendu à de nombreuses infractions, et ceux qui refusent de donner leur ADN encourent 6 mois de prison et 7500€ d&#039;amende).' 
+},
+{'id' : '1' 
+,'category' : 'HABITATION' 
+,'titre' : 'Rassemblements' 
+,'description' : 'Interdiction des rassemblements dans les halls d&#039;immeuble.' 
+},
+{'id' : '1' 
+,'category' : 'DELATION' 
+,'titre' : 'Anonymat' 
+,'description' : 'Anonymat garanti pour ceux qui dénoncent des crimes et délits passibles de plus de 5 ans de prison.' 
+},
+{'id' : '2' 
+,'category' : 'INSTITUTION' 
+,'titre' : 'Conseil de sécurité intérieure' 
+,'description' : 'Création du Conseil de la sécurité intérieure, de deux nouveaux offices centraux créés pour la lutte contre la délinquance itinérante et contre les malfaiteurs en fuite, des Conseils locaux de sécurité et de prévention de la délinquance et des groupements d&#039;intervention régionaux (GIR); le ministre de l&#039;Intérieur a désormais autorité sur la gendarmerie nationale, le rôle de la police municipale est accentué.' 
+},
+{'id' : '2' 
+,'category' : 'INSTITUTION' 
+,'titre' : '13 500 policiers' 
+,'description' : 'La LOPSI, qui prévoit la création de 13 500 emplois dans la police nationale et la gendarmerie nationale entre 2003 et 2007, disposera également pour cela d&#039;un budget de 5,6 milliards d&#039;euros, et facilite le recours à des partenariats public-privé (pour la construction et la location de gendarmeries, par exemple).' 
+},
+{'id' : '2' 
+,'category' : 'FICHIERS' 
+,'titre' : 'ARIANE' 
+,'description' : 'Projet de fusion du STIC, fichier de la police, et de JUDEX, fichier de la gendarmerie, au sein d&#039;une même structure, ARIANE (la fusion n&#039;est toujours pas finalisée).' 
+},
+{'id' : '3' 
+,'category' : 'DELATION' 
+,'titre' : 'Témoignage' 
+,'description' : 'Le témoignage anonyme est rendu possible pour presque tous les délits.' 
+},
+{'id' : '3' 
+,'category' : 'MINEURS' 
+,'titre' : 'Centres fermés' 
+,'description' : 'Sanctions éducatives alourdies dès l’âge de dix ans, création de centres éducatifs fermés (à partir de treize ans), détention provisoire accrue (à partir de treize ans), régime de garde à vue durci, jugement en urgence. Fin de la compétence exclusive du juge des enfants.' 
+},
+{'id' : '3' 
+,'category' : 'POUVOIRS POLICIERS' 
+,'titre' : 'Détention provisoire' 
+,'description' : 'Nouvelles restrictions en matière de détention provisoire (possible dès que la peine encourue est de trois ans, rétablissement du critère de trouble à l’ordre public, prolongations facilitées), et augmentation des pouvoirs du Parquet.' 
+},
+{'id' : '4' 
+,'category' : 'NOUVEAUX DÉLITS' 
+,'titre' : 'Florilège de délits' 
+,'description' : 'La LSI crée de nouveaux délits et sanctions visant la prostitution (&quot;raccolage passif&quot;), la mendicité, les gens du voyage, les squatteurs, les rassemblements &quot;menaçants ou hostiles&quot; dans les halls d&#039;immeubles, les menaces, le hooliganisme, l&#039;homophobie ou le commerce des armes.' 
+},
+{'id' : '4' 
+,'category' : 'INTERNET' 
+,'titre' : 'Prolongation des mesures d&#039;exception' 
+,'description' : 'Les dispositions les plus liberticides de la LSQ (surveillance généralisée des internautes, mesures anticryptographie et relatives au secret des correspondances, recours aux fichiers policiers à l’occasion des « enquêtes administratives »), qui avaient initialement été « adoptées pour une durée allant jusqu’au 31 décembre 2003 », sont prolongées sine die.' 
+},
+{'id' : '4' 
+,'category' : 'FICHIERS' 
+,'titre' : 'FNAEG' 
+,'description' : 'Le fichage génétique ne concerne plus seulement les criminels sexuels et les auteurs d’infraction, mais aussi les suspects : le FNAEG est étendu à toutes les personnes à l’encontre desquelles il existe « des raisons plausibles de soupçonner qu’elles ont commis une infraction ».' 
+},
+{'id' : '4' 
+,'category' : 'FICHIERS' 
+,'titre' : 'STIC' 
+,'description' : 'Les policiers peuvent conserver et utiliser des données personnelles (y compris sur les « victimes » d’infraction) dans le Fichier de traitement des infractions constatées (STIC, créé en 1995, légalisé en juillet 2001).' 
+},
+{'id' : '4' 
+,'category' : 'SUSPICION' 
+,'titre' : 'Contrôles' 
+,'description' : 'Extension des motifs de contrôles d’identité et de fouilles de véhicules par prolongation des mesures d’exception de la LSQ : pour contrôler l’identité d’une personne, il ne faut plus un « indice » mais une « raison plausible de soupçonner », et la possibilité de fouille des véhicules est élargie aux enquêtes pour vol et recel, ou s’il y a une « raison plausible de soupçonner » que le conducteur ou un passager a commis un crime ou un délit flagrant, ou encore avec l’accord du conducteur ou l’autorisation spéciale du procureur.' 
+},
+{'id' : '4' 
+,'category' : 'TECHNOLOGIES' 
+,'titre' : 'Perquisition' 
+,'description' : 'La copie des données informatiques est autorisée lors d’une perquisition, y compris des données qui sont stockées ailleurs si elles sont accessibles depuis le système du lieu perquisitionné (et en accord avec les traités internationaux si elles sont stockées à l’étranger).' 
+},
+{'id' : '4' 
+,'category' : 'TECHNOLOGIES' 
+,'titre' : 'Radars automatiques' 
+,'description' : 'Autorisation du contrôle automatisé des données signalétiques des véhicules (radar automatique non dédié au contrôle de vitesse).' 
+},
+{'id' : '4' 
+,'category' : 'POUVOIRS POLICIERS' 
+,'titre' : 'Garde à vue' 
+,'description' : 'Les policiers ne sont plus obligés de mentionner à une personne en garde à vue qu’elle a « le choix de faire des déclarations, de répondre aux questions posées ou de se taire ».' 
+},
+{'id' : '4' 
+,'category' : 'HABITATION' 
+,'titre' : 'Chasse aux marginaux' 
+,'description' : 'De nouvelles incriminations pénales visent toutes les populations les plus défavorisées : stationnement de jeunes dans les halls d’immeubles (passible de deux mois de prison et 3 750 euros d’amende), mendicité dite « agressive », racolage passif par des prostitué(e)s, installation de gens du voyage sur des terrains privés.' 
+},
+{'id' : '4' 
+,'category' : 'PRISON' 
+,'titre' : 'Parloirs' 
+,'description' : 'Les « parloirs sauvages » sont passibles d’un an de prison et de 15 000 euros d’amendes.' 
+},
+{'id' : '5' 
+,'category' : 'FICHIERS' 
+,'titre' : 'Etrangers' 
+,'description' : 'Fichage des étrangers qui demandent un visa, avec relevé des empreintes digitales et photographie d’identité.' 
+},
+{'id' : '5' 
+,'category' : 'FICHIERS' 
+,'titre' : 'Accueil des étrangers' 
+,'description' : 'Fichage des personnes qui accueillent des visiteurs étrangers.' 
+},
+{'id' : '5' 
+,'category' : 'ETRANGERS' 
+,'titre' : 'Hébergement privé' 
+,'description' : 'Accroissement des pouvoirs du maire pour la validation des attestations d’accueil. L’hébergeant doit faire état de ressources suffisantes et justifier qu’il peut accueillir le visiteur étranger dans des conditions normales de logement. Les services municipaux peuvent venir au domicile de l’hébergeant pour vérifier que ces conditions sont remplies.' 
+},
+{'id' : '5' 
+,'category' : 'ETRANGERS' 
+,'titre' : 'Mariages' 
+,'description' : 'Création d’un délit de mariage de complaisance, et contrôle accru sur les mariages, sous prétexte de traquer les mariages de complaisance, avec possibilité pour le maire de s’entretenir avec les futurs conjoints et même de s’entretenir séparément avec chacun d’eux (loi du 14 novembre 2006 relative à la validité des mariages).' 
+},
+{'id' : '6' 
+,'category' : 'POUVOIRS POLICIERS' 
+,'titre' : 'Espionnage à domicile' 
+,'description' : 'En matière de « criminalité organisée », légalisation de méthodes policières contestables : espionnage au domicile des suspects (possibilité de « sonorisation », avec micros et caméras, de leurs domiciles et véhicules), extension du champ des perquisitions, qui peuvent avoir lieu en l’absence ou sans l’accord de la personne, y compris de nuit, généralisation des infiltrations policières des « bandes organisées », rémunération des « indics », instauration/extension du statut des « repentis », impunité pour les délateurs… ;' 
+},
+{'id' : '6' 
+,'category' : 'INSTITUTION' 
+,'titre' : 'Plaider coupable' 
+,'description' : 'Introduction de la procédure du plaider coupable (« comparution sur reconnaissance préalable de culpabilité ») : dans le cas des délits encourant jusqu’à un an de prison, cette procédure permet d’être condamné sans comparaître devant un tribunal.' 
+},
+{'id' : '6' 
+,'category' : 'POUVOIRS POLICIERS' 
+,'titre' : 'Garde à vue' 
+,'description' : 'Garde à vue portée à quatre jours (pas d’assistance d’un avocat avant deux, voire trois jours) et à six jours en cas de « terrorisme ».' 
+},
+{'id' : '6' 
+,'category' : 'INSTITUTION' 
+,'titre' : 'Pouvoirs du ministère élargis' 
+,'description' : 'Renforcement du contrôle du Parquet par la Chancellerie : rétablissement des instructions portant sur des affaires particulières.' 
+},
+{'id' : '6' 
+,'category' : 'FICHIERS' 
+,'titre' : 'FIJAIS' 
+,'description' : 'Mise en place du Fichier judiciaire automatisé des auteurs d’infractions sexuelles, ou FIJAIS (y compris en cas de non-lieu, relaxe ou acquittement).' 
+},
+{'id' : '7' 
+,'category' : 'XXXXX' 
+,'titre' : 'Soumission du principe de liberté de communication à des impératifs marchands. Si cette loi réaffirme en effet que « la communication au public par voie électronique est libre », elle subordonne explicitement cette liberté à « la nécessité, pour les services audiovisuels, de développer la production audiovisuelle », et donc aux intérêts économiques de l’industrie audiovisuelle.' 
+,'description' : '7' 
+},
+{'id' : '7' 
+,'category' : 'INTERNET' 
+,'titre' : 'Hébergeurs' 
+,'description' : 'Les hébergeurs de sites web doivent décider de la licéité des contenus litigieux, qu’ils sont invités à censurer s’ils ne veulent pas être considérés comme complices ; les auteurs des contenus n’ont que la possibilité, après censure, d’en référer à la justice.' 
+},
+{'id' : '7' 
+,'category' : 'INTERNET' 
+,'titre' : 'Fournisseurs d&#039;accès' 
+,'description' : 'Atteinte au droit de lire : les fournisseurs d’accès à Internet peuvent également être contraints de filtrer l’accès à des contenus hébergés (y compris légalement) à l’étranger si ceux-ci contreviennent aux lois françaises.' 
+},
+{'id' : '7' 
+,'category' : 'INTERNET' 
+,'titre' : 'Autocensure' 
+,'description' : 'Les sites doivent nommer un « directeur de publication », y compris lorsqu’il s’agit de forums ou de sites participatifs, qui sont responsables des contenus qui y sont publiés, même lorsqu’il s’agit de commentaires ou de contenus émanant de tierces parties et automatiquement relayés par des logiciels.' 
+},
+{'id' : '8' 
+,'category' : 'INTERNET' 
+,'titre' : 'CNIL - Fichiers de sûreté' 
+,'description' : 'Depuis 1978, tout fichier dit « de sûreté » (policier, militaire, de renseignements) ou portant sur l’ensemble de la population devait recevoir l’aval de la CNIL ; la nouvelle loi n’oblige plus le gouvernement qu’à publier, au Journal officiel, l’avis de la CNIL, mais il n’a plus à en tenir compte. La LIL avait pourtant été votée, en 1978, pour précisément encadrer le fichage des citoyens, suite au scandale du projet SAFARI, qui visait à regrouper, dans un fichier de sûreté, l’ensemble des informations contenues dans les nombreux fichiers administratifs français.' 
+},
+{'id' : '8' 
+,'category' : 'FICHIERS' 
+,'titre' : 'Fichiers de sûreté' 
+,'description' : 'Légalisation des pratiques illégales des représentants de l’ordre : les fichiers de sûreté disposent d’un délai courant jusqu’en 2010 pour se conformer à la loi ; dit autrement, cette loi, censée protéger la vie privée des citoyens, autorise policiers, militaires et services de renseignements à la violer, en toute légalité.' 
+},
+{'id' : '8' 
+,'category' : 'INTERNET' 
+,'titre' : 'Ayants droit' 
+,'description' : 'Privatisation de la police : les sociétés de perception de droits d’auteur sont autorisées à effectuer des recherches proactives d’infraction, et à créer des fichiers de suspects.' 
+},
+{'id' : '8' 
+,'category' : 'FICHIERS' 
+,'titre' : 'CNIL - Pouvoirs de sanction' 
+,'description' : 'La CNIL ne peut plus « ordonner la destruction de traitements » en infraction avec la loi, et a perdu aussi ses pouvoirs de sanction dès lors que c’est l’État qui serait pris en flagrant délit d’infraction.' 
+},
+{'id' : '8' 
+,'category' : 'FICHIERS' 
+,'titre' : 'CNIL - Biométrie' 
+,'description' : ' Parmi les projets qui peuvent se passer de l’avis de la CNIL, « les traitements de données à caractère personnel mis en œuvre pour le compte de l’État et portant sur des données biométriques nécessaires à l’authentification et au contrôle de l’identité des personnes », comme les titres d’identité biométrique (CNI ou passeports).' 
+},
+{'id' : '8' 
+,'category' : 'FICHIERS' 
+,'titre' : 'CNIL - Contrôles' 
+,'description' : ' Le gouvernement a également fait adopter, à l’Assemblée, un amendement retirant à la CNIL ses « pouvoirs de contrôle sur place et sur pièce » des « traitements intéressant la sûreté de l’État (en pratique les fichiers les plus sensibles de la DST et de la DGSE) » et ce « à la demande de services de renseignements étrangers » (sic).' 
+},
+{'id' : '8' 
+,'category' : 'FICHIERS' 
+,'titre' : 'Partage de fichiers policiers' 
+,'description' : ' De même, le gouvernement a aussi rajouté à la loi le fait que « les données (gérées) par les services de police et de gendarmerie nationales puissent être transmises à des organismes de coopération internationale en matière de police judiciaire ou à des services de police étrangers présentant un niveau de protection suffisant de la vie privée et des droits fondamentaux ».' 
+},
+{'id' : '8' 
+,'category' : 'XXXXX' 
+,'titre' : ' Cette loi est officiellement inspirée d’une obligation européenne (transposer la directive de 1995, ce que la France aurait dû faire avant 1998), mais cette directive n’exigeait en rien les États à rabaisser leurs niveaux de protection pour les fichiers d’État, et ne visait aucunement à couvrir les dérives des fichiers policiersnote.' 
+,'description' : '' 
+},
+{'id' : '9' 
+,'category' : 'TECHNOLOGIES' 
+,'titre' : 'Bracelet électronique' 
+,'description' : ' Placement sous surveillance électronique mobile (PSEM), ou « bracelet électronique » GPS ou GSM, porté soit au poignet soit à la cheville, des délinquants sexuels et violents (consentants).' 
+},
+{'id' : '9' 
+,'category' : 'FICHIERS' 
+,'titre' : 'FIJAIS' 
+,'description' : ' Extension du Fichier judiciaire automatisé des auteurs d’infractions sexuelles ou violentes (FIJAIS), qui enregistre l’identité (noms, prénoms, sexe …) et les adresses successives des personnes ayant été condamnées pour une infraction à caractère sexuel, mais aussi des personnes ayant fait l’objet, pour les mêmes faits, d’une dispense de peine, d’une décision relative à l’enfance délinquante ou d’une mise en examen sur décision du juge d’instruction, voire d’un non-lieu, d’une relaxe ou d’un acquittement en raison de l’état mental (« irresponsable ») au moment des faits.' 
+},
+{'id' : '10' 
+,'category' : 'XXXXX' 
+,'titre' : ' Mesures sur la vidéosurveillance, sur le développement des fichiers et de leur interconnexion, sur le contrôle des déplacements des personnes. Contournement des garanties offertes par l’intervention préalable de l’autorité judiciaire ou d’autorités de contrôle indépendantes : l’avis de la CNIL, qui comportait des réserves importantes, a été ignoré. Remise en cause du principe de finalité précise des fichiers informatiques, qui constitue une garantie importante pour les libertés.' 
+,'description' : '10' 
+},
+{'id' : '10' 
+,'category' : 'FICHIERS' 
+,'titre' : 'CNIL - Informations' 
+,'description' : ' Nouvelles limitations de l’information communiquée à la CNIL lorsqu’elle rend un avis sur les fichiers intéressant la sûreté de l’État, la défense ou la sécurité publique, élargissant ainsi la restriction des pouvoirs de contrôle des fichiers administratifs déjà entamés suite à la réforme de la LIL en 2004.' 
+},
+{'id' : '10' 
+,'category' : 'POUVOIRS POLICIERS' 
+,'titre' : 'Entreprises privés' 
+,'description' : ' Transformation d’entrepreneurs privés (transports, restauration, etc.) en auxiliaires de police.' 
+},
+{'id' : '10' 
+,'category' : 'INTERNET' 
+,'titre' : 'Logs' 
+,'description' : ' Accès élargi et facilité aux données de connexion Internet et téléphonie conservées par les opérateurs de communications électroniques et les cybercafés (données permettant de dresser des profils précis des personnes en fonction de leurs interlocuteurs et de leurs habitudes de consultation des sites web).' 
+},
+{'id' : '10' 
+,'category' : 'POUVOIRS POLICIERS' 
+,'titre' : 'Logs' 
+,'description' : ' Polices et services de renseignements peuvent accéder à ces données de connexion en dehors de tout contrôle de l’autorité judiciaire : le contrôle est effectué par une « personnalité qualifiée » du ministère de l’Intérieur.' 
+},
+{'id' : '11' 
+,'category' : 'TECHNOLOGIES' 
+,'titre' : 'DRM' 
+,'description' : 'Légalisation des dispositifs de contrôle d’usage des œuvres (DCU), et les « mesures techniques » limitant ou interdisant la lecture sur certains supports ou logiciels ; dans le même temps, elle pénalise toute mesure ou action de « contournement » de ces dispositifs.' 
+},
+{'id' : '11' 
+,'category' : 'TECHNOLOGIES' 
+,'titre' : 'Copie privée' 
+,'description' : 'Fragilisation du principe de « copie privée », pourtant autorisée dans le code de la propriété intellectuelle, alors qu’une redevance est payée sur les supports vierges de stockage afin de rémunérer les ayants droit.' 
+},
+{'id' : '11' 
+,'category' : 'XXXXX' 
+,'titre' : ' ces DCU peuvent en outre porter atteinte à la vie privée, ou à la sécurité informatique des internautesnote ;' 
+,'description' : '' 
+},
+{'id' : '11' 
+,'category' : 'TECHNOLOGIES' 
+,'titre' : 'Destination de contrefaçon' 
+,'description' : 'Allant bien au-delà de la simple transposition de la directive « copyright » de mai 2001, la majorité parlementaire, sous la pression d’Universal et avec l’aide de N. Sarkozy, amende la loi en sorte qu’elle aille jusqu’à prohiber des logiciels s’ils « peuvent » avoir une « destination » de contrefaçon, menaçant directement bon nombre de logiciels libres comme ceux sous licence GPL.' 
+},
+{'id' : '11' 
+,'category' : 'TECHNOLOGIES' 
+,'titre' : 'Logiciels libres' 
+,'description' : 'Une autorité administrative est chargée de veiller au principe d’interopérabilité, mais peut interdire la publication d’un logiciel libre parce qu’il peut lire des informations protégées ; les simples utilisateurs de tels logiciels libres risquent 3 750 euros d’amende, et ceux qui « publient » jusqu’à six mois d’emprisonnement et 30 000 euros d’amende.' 
+},
+{'id' : '11' 
+,'category' : 'POUVOIRS POLICIERS' 
+,'titre' : 'Filtrage' 
+,'description' : 'Mise en œuvre permanente de moyens visant à préserver l’ordre public (filtrage) par des acteurs privés, mission normalement placée sous le contrôle de l’autorité judiciaire et à la charge de l’État.' 
+},
+{'id' : '11' 
+,'category' : 'INTERNET' 
+,'titre' : 'Amendes' 
+,'description' : 'Les simples utilisateurs de réseaux « peer to peer » risquaient une contravention entre 38 et 150 euros d’amende ; mesure censurée par le Conseil constitutionnel, si bien que le régime de la contrefaçon continue de s’appliquer (jusqu’à trois ans de prison et 300 000 euros d’amende).' 
+},
+{'id' : '12' 
+,'category' : 'MINEURS' 
+,'titre' : 'Fichage' 
+,'description' : ' Création de fichiers municipaux sur les enfants scolarisés et sur les personnes soignées par des psychiatres dans la commune.' 
+},
+{'id' : '12' 
+,'category' : 'SUSPICION' 
+,'titre' : 'Pré-crime' 
+,'description' : ' Possibilité pour la justice d’intervenir avant qu’une infraction soit commise…' 
+},
+{'id' : '12' 
+,'category' : 'PRISON' 
+,'titre' : 'Enregistrement' 
+,'description' : ' Enregistrement des communications passées par les prisonniers (sauf avec leur avocat).' 
+},
+{'id' : '12' 
+,'category' : 'NOUVEAUX DÉLITS' 
+,'titre' : 'Provocation à la rebellion' 
+,'description' : ' La provocation à la rébellion (par tout moyen, presse, affiche, cri, etc.) est désormais passible de deux mois de prison et d’une amende de 7 500 euros. Les mêmes règles que pour les délits de presse s’appliquent pour déterminer les responsables (le responsable de la publication d’un site Internet peut donc être inquiété).' 
+},
+{'id' : '12' 
+,'category' : 'INSTITUTION' 
+,'titre' : 'Prévention' 
+,'description' : ' Le maire est chargé de coordonner la politique de prévention de la délinquance impulsée par le préfet. Il peut mobiliser les services du conseil général (travailleurs sociaux), notamment au sein des conseils locaux de sécurité et de prévention de la délinquance.' 
+},
+{'id' : '12' 
+,'category' : 'INSTITUTION' 
+,'titre' : 'Travailleurs sociaux' 
+,'description' : ' Les travailleurs sociaux doivent « partager » le secret professionnel, entre eux et avec le maire et le président du conseil général.' 
+},
+{'id' : '12' 
+,'category' : 'MINEURS' 
+,'titre' : 'Parents' 
+,'description' : ' Les parents de mineurs délinquants peuvent être condamnés à des stages de responsabilité parentale pour de nombreuses infractions.' 
+},
+{'id' : '12' 
+,'category' : 'MINEURS' 
+,'titre' : 'Absences' 
+,'description' : ' Création de fichier automatisé des absences dans l’Éducation nationale, sur la base duquel le maire peut prononcer des sanctions.' 
+},
+{'id' : '12' 
+,'category' : 'HABITATION' 
+,'titre' : 'Urbanisme sécuritaire' 
+,'description' : 'Obligation d’une étude de sécurité publique, dont l’avis est déterminant, pour certains types de constructions. Cette étude n’est pas communicable aux « citoyens ».' 
+},
+{'id' : '12' 
+,'category' : 'HABITATION' 
+,'titre' : 'Bail' 
+,'description' : ' Un bail peut désormais être résilié par le bailleur si « le preneur n’use pas de la chose louée en bon père de famille » (sic). Dans la qualification des nuisances au voisinage, le « bruit » devient les « troubles », sans plus de précision, et les propriétaires peuvent et doivent faire cesser les fauteurs de troubles.' 
+},
+{'id' : '12' 
+,'category' : 'POUVOIRS POLICIERS' 
+,'titre' : 'Roms' 
+,'description' : ' Renforcement du contrôle des gens du voyage.' 
+},
+{'id' : '12' 
+,'category' : 'INTERNET' 
+,'titre' : 'Incitation à la violence' 
+,'description' : ' Les hébergeurs de sites Internet et fournisseurs d’accès doivent participer à la lutte contre la diffusion d’incitation à la violence (disposition visant directement les blogs d’adolescents diffusant des appels à affronter les policiers).' 
+},
+{'id' : '12' 
+,'category' : 'NOUVEAUX DÉLITS' 
+,'titre' : 'Vidéo' 
+,'description' : ' Le fait de filmer des violences est un acte de complicité, qui fait encourir la même peine que l’auteur de l’infraction (sauf si on est journaliste ou que l’enregistrement est destiné à servir de preuve en justice). La diffusion de ces images est passible de cinq ans et 75 000 euros.' 
+},
+{'id' : '12' 
+,'category' : 'MINEURS' 
+,'titre' : 'Initiation au travail' 
+,'description' : ' Remise en cause de soixante années de justice des mineurs et des acquis de la Libération : institution de procédures de comparution immédiate pour des enfants, création d’une peine d’initiation au travail dès treize ans.' 
+},
+{'id' : '12' 
+,'category' : 'POUVOIRS POLICIERS' 
+,'titre' : 'Police des familles' 
+,'description' : ' Mise en place d’une « police municipale des familles », des jeunes et des personnes fragiles, aussi discriminatoire que la plupart des lois répressives votées au cours de cette législature : ce sont les familles le plus en difficultés sociales et éducatives qui sont visées par les procédures de culpabilisation et de sanction… au nom d’une conception de la « prévention » ainsi résumée : « La meilleure éducation, c’est la sanction. »' 
+},
+{'id' : '12' 
+,'category' : 'INSTITUTION' 
+,'titre' : 'Conseil des familles' 
+,'description' : ' Création d’un « Conseil pour les droits et devoirs des familles » (sic) présidé par le maire et chargé de l’« accompagnement parental » des familles dont les enfants sont susceptibles de devenir délinquants ; communication au maire, élu politique, d’informations concernant la vie privée des familles ; politisation de l’exploitation du travail social. A été disjointe une disposition qui donnait pouvoir au maire de prononcer des placements en hospitalisation psychiatrique d’office sur simple « avis » d’un médecin, sans que soit exigé un certificat médical (alors que presque partout en Europe cette mesure ne peut être décidée que par un magistrat indépendant des autorités politiques).' 
+},
+{'id' : '12' 
+,'category' : 'POUVOIRS POLICIERS' 
+,'titre' : 'Milice' 
+,'description' : ' Création d’une sorte de milice baptisée « service volontaire citoyen de la police nationale ».' 
+},
+{'id' : '13' 
+,'category' : 'PRISON' 
+,'titre' : 'Surveillance électronique' 
+,'description' : ' Surveillance électronique mobile des délinquants sexuels après leur sortie de prison, quasiment à vie.' 
+},
+{'id' : '13' 
+,'category' : 'NOUVEAUX DÉLITS' 
+,'titre' : 'Peines plancher' 
+,'description' : ' Avec son système de « peines planchers », une personne volant dix euros et une carte Vitale, sans violence, est condamnée à une peine plancher de deux ans minimum, dont dix-huit mois fermes ; l’achat de deux grammes de cannabis pour sa consommation personnelle, par une personne considérée par la loi comme récidiviste conduit ainsi à une peine plancher de quatre ans ferme ; et le vol d’un parapluie dans une voiture par un SDF est puni de deux années de prison ferme. Cette loi conduirait à augmenter le nombre de détenus de 10 000 entre 2007 et 2012.' 
+},
+{'id' : '13' 
+,'category' : 'XXXXX' 
+,'titre' : ' Ce texte est voté alors que les gardes à vue (« POUVOIRS POLICIERS » dans le jargon policier et judiciaire), explosent. En sept ans, de 2000 à 2007, leur nombre a gonflé de moitié, et dépassé la barre du demi-million pour atteindre 562 083 en 2007. Dans les délits de moindre importance, la palme des POUVOIRS POLICIERS revient sans conteste aux « infractions aux conditions générales d’entrée et de séjour des étrangers » qui constituent, avec 25 983 gardes à vue en 2000 et 72 572 en 2007, soit une augmentation de… 179 %, un petit quart de la hausse générale.' 
+,'description' : '' 
+},
+{'id' : '14' 
+,'category' : 'ETRANGERS' 
+,'titre' : 'ADN' 
+,'description' : ' Restrictions supplémentaires et encadrement plus strict des procédures de regroupement familial, recours aux tests ADN dans une démarche soi-disant « volontaire ».' 
+},
+{'id' : '14' 
+,'category' : 'ETRANGERS' 
+,'titre' : 'Biométrie' 
+,'description' : ' Extension du fichage biométrique, déjà effectif aux demandeurs de visas, des personnes étrangères qui ont bénéficié de l’aide au retour dans leur pays d’origine.' 
+},
+{'id' : '14' 
+,'category' : 'XXXXX' 
+,'titre' : ' La HALDE (Haute autorité contre les discriminations) a été saisie pendant les débats par des associations, dont le Gisti, mais n’a jamais été consultée par le gouvernement. Selon son avis, publié après la promulgation de la loi et rendu public en janvier 2008, cette première loi Hortefeux méconnaît des directives communautaires ou des conventions internationales que la France se doit de respecter, et a considéré comme discriminatoires près d’une dizaine de mesures, comme :' 
+,'description' : '' 
+},
+{'id' : '14' 
+,'category' : 'ETRANGERS' 
+,'titre' : 'Handicapés' 
+,'description' : 'Conditions de ressources exigées pour les personnes handicapées qui demandent le regroupement familial considéré comme discriminatoire par la Halde.' 
+},
+{'id' : '14' 
+,'category' : 'ETRANGERS' 
+,'titre' : 'Prestations familiales' 
+,'description' : 'Suspension des prestations familiales en cas de non-respect du contrat d’accueil et d’intégration (considéré comme discriminatoire par la Halde)' 
+},
+{'id' : '14' 
+,'category' : 'ETRANGERS' 
+,'titre' : 'Enfants' 
+,'description' : 'Identification par les empreintes génétiques des enfants entrant sur le territoire dans le cadre du regroupement familial (considéré comme discriminatoire par la Halde)' 
+},
+{'id' : '14' 
+,'category' : 'ETRANGERS' 
+,'titre' : 'Arbitraire' 
+,'description' : 'Suppression de motivation de la décision d’« obligation de quitter le territoire français » (OQTF) après un refus ou un non-renouvellement de titre de séjour (alors même que le Conseil d’État a approuvé dans son principe cette non-motivation avant même la promulgation de la loi : avis 19 octobre 2007)  (considéré comme discriminatoire par la Halde)' 
+},
+{'id' : '14' 
+,'category' : 'ETRANGERS' 
+,'titre' : 'Commerçants' 
+,'description' : 'Exigence d’une autorisation spécifique pour les étrangers résidents de longue durée souhaitant exercer une profession commerciale  (considéré comme discriminatoire par la Halde).' 
+},
+{'id' : '14' 
+,'category' : 'FICHIERS' 
+,'titre' : 'Sans-papiers' 
+,'description' : 'Fichage des sans-papiers, de leurs enfants, de ceux qui leur rendent visite en rétention et de ceux qui les domicilient lors d’une assignation à résidence.  (considéré comme discriminatoire par la Halde)' 
+},
+{'id' : '14' 
+,'category' : 'ETRANGERS' 
+,'titre' : 'Arrestations' 
+,'description' : ' En 2008 le gouvernement a dû rectifier une circulaire Sarkozy de février 2006 qui répertoriait une liste méthodique des pièges pouvant être tendus aux sans-papiers (convocation en préfecture, arrestation possible jusque dans les blocs opératoires de cliniques, etc.). La Cour de cassation, en 2007, avait jugé certaines dispositions déloyales (arrestations en préfecture après convocations officielles), alors les préfets sont depuis incités à procéder aux interpellations si la personne se présente « spontanément », tout en incitant les demandeurs d’un titre de séjour à se présenter régulièrement aux bureaux des étrangers des différentes préfectures.' 
+},
+{'id' : '15' 
+,'category' : 'NOUVEAUX DÉLITS' 
+,'titre' : 'Rétention de sûreté' 
+,'description' : 'Introduit la possibilité d&#039;une rétention de sûreté, c&#039;est-à-dire d&#039;une privation de liberté qui intervient après l&#039;exécution de la peine.' 
+},
+{'id' : '15' 
+,'category' : 'NOUVEAUX DÉLITS' 
+,'titre' : 'Surveillance de sûreté' 
+,'description' : 'Une « surveillance de sûreté » peut inclure le placement sous surveillance électronique mobile' 
+},
+{'id' : '15' 
+,'category' : 'FICHIERS' 
+,'titre' : 'FIJAIS' 
+,'description' : 'Donne aux maires un accès au Fichier judiciaire national automatisé des auteurs d&#039;infractions sexuelles ou violentes, via le préfet' 
+},
+{'id' : '16' 
+,'category' : 'INTERNET' 
+,'titre' : 'Suspension' 
+,'description' : 'Même après que son abonnement a été suspendu par le juge, l&#039;internaute continue à payer.' 
+},
+{'id' : '16' 
+,'category' : 'INTERNET' 
+,'titre' : 'WiFi' 
+,'description' : 'Sanction des internautes qui n&#039;ont pas sécurisé leur connexion avec une clé WPA ou WEP.' 
+},
+{'id' : '16' 
+,'category' : 'INTERNET' 
+,'titre' : 'Réabonnement' 
+,'description' : 'Interdiction, pour l&#039;abonné dont l&#039;accès à Internet a été suspendu, de souscrire durant la sanction un contrat chez un autre fournisseur d&#039;accès, sous peine d&#039;une amende de 3.750 euros.' 
+},
+{'id' : '16' 
+,'category' : 'INTERNET' 
+,'titre' : 'Procédure simplifiée' 
+,'description' : 'La suspension de l&#039;abonnement peut se faire par &quot;la procédure simplifiée de l’ordonnance pénale&quot;, sans débat préalable.' 
+},
+{'id' : '17' 
+,'category' : 'SUSPICION' 
+,'titre' : 'Castration chimique' 
+,'description' : 'Les auteurs d&#039;agression sexuelles sont contraints à se soumettre à un traitement hormonal, dit de « castration chimique »; en cas d&#039;acceptation d&#039;un tel traitement, le refus ultérieur de s&#039;y soumettre conduirait à être incarcéré à nouveau dans le cadre de la rétention de sûreté.' 
+},
+{'id' : '17' 
+,'category' : 'SUSPICION' 
+,'titre' : 'Agresseurs sexuels' 
+,'description' : 'L&#039;auteur d&#039;une agression sexuelle, une fois purgé sa peine, ne peut élire domicile près de son ancienne victime; celui qui outrepasse l&#039;interdiction de « paraître autour du lieu où travaille ou réside la victime ou sa famille » peut être interpellé et retenu au commissariat durant 24 heures.' 
+},
+{'id' : '17' 
+,'category' : 'FICHIERS' 
+,'titre' : 'RDCPJ' 
+,'description' : 'Création d&#039;un nouveau fichier, intitulé « Répertoire des données à caractère personnel collectées dans le cadre des procédures judiciaires » (RDCPJ), s&#039;appliquant aux « personnes poursuivies ou condamnées pour l&#039;une des infractions pour lesquelles le suivi socio-judiciaire est encouru » (art. 706-56-2 du CPP), et d&#039;élargir les cas d&#039;inscription au FNAEG' 
+},
+{'id' : '17' 
+,'category' : 'SUSPICION' 
+,'titre' : 'Surveillance de sûreté' 
+,'description' : 'Extension du champ de la surveillance de sûreté, introduit par la loi du 25 février 2008, aux personnes condamnées à plus de dix ans de prison (contre 15 précédemment), tandis que la durée de cette mesure passerait de un à deux ans; en cas de non-respect des obligations de la surveillance de sûreté (en particulier du port du bracelet électronique de localisation GPS), la personne serait passible d&#039;une rétention de sûreté.' 
+},
+{'id' : '17' 
+,'category' : 'SUSPICION' 
+,'titre' : 'Police locale' 
+,'description' : 'Les sections locales de la police et de la gendarmerie sont informées de l&#039;identité et de l&#039;adresse de toute personne ayant été condamnée à une peine de 3 ans ou plus.' 
+}]}

@@ -1,0 +1,66 @@
+
+body {
+    font-family:verdana;
+}
+
+#app {
+    width:800px;
+    height:600px;
+}
+
+#workspace {
+    background: url("./images/gradian.png") center center ;
+}
+
+#layout {
+    width:800px;
+    height:600px;
+}
+
+#slider {
+    margin-top:-60px;
+    padding:10px 20px;
+}
+
+.labels {
+    font-weight:bold;
+    width:100px;
+    font-size:14px;
+}
+
+#year-label {
+    position:relative;
+    height:0px;
+}
+
+#range .ui-slider-handle {
+    border:0px;
+    background: #4d4d4d;
+    width:7px;
+    height:11px;
+
+    padding:0px;
+    margin:0px;
+    margin-top:1px;
+
+    border-radius:0px;
+    -khtml-border-radius:0px;
+    -webkit-border-radius:0px;
+    -moz-border-radius:0px;
+    cursor:pointer;
+
+}
+
+.ui-widget-content {
+    border:0px;
+    background: #b3b3b3;
+
+    border-radius:0px;
+    -khtml-border-radius:0px;
+    -webkit-border-radius:0px;
+    -moz-border-radius:0px;
+
+}
+.ui-slider-horizontal {
+    height:4px;
+}
